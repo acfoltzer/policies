@@ -127,5 +127,4 @@ directly; ibid.]
 This Code of Conduct is distributed under a [Creative
 Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/)
 
-_Revision 2.0, adopted by the [Stumptown
-Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+_Draft, in progress by members of the [Haskell.org Committee](http://www.haskell.org/haskellwiki/Haskell.org_committee). Adapted from the Stumptown Syndicate's [Citizen Code of Conduct](http://citizencodeofconduct.org/)._

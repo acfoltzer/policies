@@ -6,7 +6,4 @@
 
 This is a fork of Stumptown Syndicate's
 [Citizen Code of Conduct](http://citizencodeofconduct.org/) to be
-adapted to the needs of the Haskell community. Pull requests welcome
-:)
-
-
+adapted to the needs of the Haskell community. Pull requests welcome.
