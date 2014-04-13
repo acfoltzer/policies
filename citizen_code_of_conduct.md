@@ -83,7 +83,7 @@ If you are subject to or witness unacceptable behavior, or have any
 other concerns, please notify a community organizer as soon as
 possible.
 
-[CONTACT_INFO_HERE; we should probably make this a separate email from committee@haskell.org so incidents can be fast-tracked]
+[CONTACT_INFO_HERE; we should probably make this a separate email from the committee address so incidents can be fast-tracked]
 
 Additionally, community organizers are available to help
 community members engage with local law enforcement or to
